@@ -91,7 +91,7 @@ ul {
     padding: 2px 16px;
   }
   .hero-image {
-    background-image: url("../images/images/tasty.png");
+    background-image: url("./images/images/tasty.png");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
